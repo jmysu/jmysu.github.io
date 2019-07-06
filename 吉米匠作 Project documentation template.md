@@ -1,3 +1,4 @@
+!HackMd.io
 ---
 title: '吉米匠作 Project documentation template'
 disqus: jimmyCraft
