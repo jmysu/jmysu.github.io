@@ -66,7 +66,6 @@ axisFormat  %m/%d
 
 ```
 > I choose a lazy person to do a hard job. Because a lazy person will find an easy way to do it. [name=Bill Gates] 
-> 我找了個懶人做硬件. 因為懶人會找小徑做.[name=比爾 大門]
-> :laughing:
-
+> 我找了隻懶蟲做硬體. 因為懶蟲會挑軟的吃.[name=比爾 大門口]
+> :laughing: :100: 
 
