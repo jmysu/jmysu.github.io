@@ -1,21 +1,24 @@
 ---
-title: '吉米匠作 Project documentation template'
+title: '吉米匠作 Mega32Grbl Project documentation'
 disqus: jimmyCraft
 ---
 
-Project Title
+吉米匠作 Mega32Grbl
 ===
  [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)        [![Build Status](https://travis-ci.com/jmysu/R3Esp32Grbl.svg?branch=master)](https://travis-ci.com/jmysu/R3Esp32Grbl)
 
-![issues](https://img.shields.io/github/issues/:user/:repo.svg) ![cmmit](https://img.shields.io/github/last-commit/:user/:repo.svg) ![ver](https://img.shields.io/github/manifest-json/v/:user/:repo.svg)
- 
-### Table of Contents
+![issues](https://img.shields.io/github/issues/jmysu/R3Esp32Grbl.svg) ![cmmit](https://img.shields.io/github/last-commit/jmysu/R3Esp32Grbl.svg) ![ver](https://img.shields.io/github/manifest-json/v/jmysu/R3Esp32Grbl.svg)
 
-[TOC]
+<br>
+
+#### Table of Contents
+##### [TOC]
+
+<br>
 
 ### About
 
-JimmyCraft Open Sources project!
+JimmyCraft Mega32Grbl Open Sources project!
 
 
 
