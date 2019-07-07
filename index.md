@@ -31,6 +31,8 @@ JimmyCraft Open Sources Projects!
   </summary>
   
 >Both Mega32Grbl and Mega32Shield were hosted on Github-Page: https://jmysu.github.io/Mega32
+>
+>MK12 vapourware archived: https://github.com/jmysu/MK12
 </details>
   
 ---
@@ -66,6 +68,6 @@ axisFormat  %m/%d
 
 ```
 > I choose a lazy person to do a hard job. Because a lazy person will find an easy way to do it. [name=Bill Gates] 
-> 我找了隻懶蟲做硬體. 因為懶蟲會挑軟的吃.[name=比爾 大門口]
+> 我找了個懶人做硬的. 因為懶人會搞軟活.[name=比爾 大門口]
 > :laughing: :100: 
 
