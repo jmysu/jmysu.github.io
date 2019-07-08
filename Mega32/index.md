@@ -53,9 +53,9 @@ axisFormat  %m/%d
     title  Mega32 時程規劃
 
     section Hardware
-    PCB Design/Layout    :a1, 19-06-01, 45d
-    PCB Debug            :a2, after a1, 30d
-    PCB 2nd RUN          :after a2, 15d
+    Mega32 PCB Design/Layout     :a1, 19-06-01, 45d
+    PCB Debug                    :a2, after a1, 30d
+    PCB 2nd RUN                  :after a2, 15d
     
     section Firmware
     ESP32/PlatformIO     :19-07-01, 45d
@@ -68,6 +68,6 @@ axisFormat  %m/%d
 
 ```
 > I choose a lazy person to do a hard job. Because a lazy person will find an easy way to do it. [name=Bill Gates] 
-> 我找了個懶人做硬的. 因為懶人會搞軟活.[name=比爾 大門口]
+> 我找了個懶人做硬活. 因為懶人會搞軟活.[name=比爾 大門口]
 > :laughing: :100: 
 
