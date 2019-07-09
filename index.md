@@ -6,8 +6,7 @@ JimmyCraft ![](https://i.imgur.com/xJBHLFT.jpg =64x64)
 ===
  [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)        [![Build Status](https://travis-ci.com/jmysu/R3Esp32Grbl.svg?branch=master)](https://travis-ci.com/jmysu/R3Esp32Grbl)
 
-![issues](https://img.shields.io/github/issues/jmysu/R3Esp32Grbl.svg) ![cmmit](https://img.shields.io/github/last-commit/jmysu/R3Esp32Grbl.svg) ![ver](https://img.shields.io/github/manifest-json/v/jmysu/R3Esp32Grbl.svg)
-
+![issues](https://img.shields.io/github/issues/jmysu/R3Esp32Grbl.svg) ![cmmit](https://img.shields.io/github/last-commit/jmysu/R3Esp32Grbl.svg) ![ver](https://img.shields.io/github/manifest-json/v/jmysu/R3Esp32Grbl.svg) [![Gitter](https://badges.gitter.im/吉米匠作/community.svg)](https://gitter.im/吉米匠作/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
 <br>
 
 #### Table of Contents
@@ -16,7 +15,7 @@ JimmyCraft ![](https://i.imgur.com/xJBHLFT.jpg =64x64)
 ---
 ### About 
 
-JimmyCraft Open Sources Projects!
+JimmyCraft Open Source Projects!
 > * Mega32Grbl :zap: https://github.com/jmysu/R3Esp32Grbl
     >ESP32(r) Grbl Board w/ Arduino(r) form factor.![](https://i.imgur.com/FJrdVFN.png =300x200)
 >
