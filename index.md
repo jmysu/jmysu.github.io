@@ -21,9 +21,15 @@ JimmyCraft Open Source Projects!
 >
 > * Mega32Shield :zap: https://github.com/jmysu/R3Esp32Grbl
     >ESP32(r) Proto Shield w/ Arduino(r) form factor.
->    
-> * 
-> 
+>
+    
+> * GRBL :zap: https://github.com/jmysu/R3Esp32Grbl/tree/master/GRBL <br>
+    >Add GRBL1.1 setttings.![](https://i.imgur.com/xyaw2NE.png =200x240)
+ 
+> * Mega32 WeatherClock :zap: https://github.com/jmysu/R3Esp32Grbl/tree/master/Firmware/WeatherClock <br>
+>Add NTP DarkSky WeatherClock! <img src="https://i.imgur.com/35qJUVX.gif" width="100" height="50" />
+
+
 ---
 ### News :newspaper: 
 <details><summary>2019-07-04, Github Page website hosted.
@@ -37,7 +43,7 @@ JimmyCraft Open Source Projects!
 ---
 ### ToDO List :heavy_check_mark: 
 - [x] PCB Design/Layout
-- [ ] PCB Assembly
+- [x] PCB Assembly
 - [ ] PCBA Test
 - [ ] Firmware integration (ESP32-Grbl tailoring)
 - [ ] Documetation
