@@ -3,6 +3,7 @@ title: '吉米匠作 JimmyCraft Projects'
 ---
 
 JimmyCraft ![](https://i.imgur.com/xJBHLFT.jpg =64x64)
+
 ===
  [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)        [![Build Status](https://travis-ci.com/jmysu/R3Esp32Grbl.svg?branch=master)](https://travis-ci.com/jmysu/R3Esp32Grbl)
 
@@ -27,7 +28,9 @@ JimmyCraft Open Source Projects!
     >Add GRBL1.1 setttings.![](https://i.imgur.com/xyaw2NE.png =200x240)
  
 > * Mega32 WeatherClock :zap: https://github.com/jmysu/R3Esp32Grbl/tree/master/Firmware/WeatherClock <br>
->Add NTP DarkSky WeatherClock! <img src="https://i.imgur.com/35qJUVX.gif" width="100" height="50" />
+>Add NTP DarkSky WeatherClock! <img src="https://i.imgur.com/35qJUVX.gif" width="100" height="50" /><br>
+>SSL to link with DarkSky Weather data(realtime ＋ two days forecast).
+And timer corrected with NTP!
 
 
 ---
