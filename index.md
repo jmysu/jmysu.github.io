@@ -20,7 +20,7 @@ JimmyCraft Open Source Projects!
 > * Mega32Grbl :zap: https://github.com/jmysu/R3Esp32Grbl
     >ESP32(r) Grbl Board w/ Arduino(r) form factor.![](https://i.imgur.com/FJrdVFN.png =300x200)
 >
-> * Mega32Shield :zap: https://github.com/jmysu/R3Esp32Grbl
+> * Mega32Proto :zap: https://github.com/jmysu/R3Esp32Grbl
     >ESP32(r) Proto Shield w/ Arduino(r) form factor.
 >
     
@@ -31,6 +31,9 @@ JimmyCraft Open Source Projects!
 >Add NTP DarkSky WeatherClock! <img src="https://i.imgur.com/35qJUVX.gif" width="100" height="50" /><br>
 >SSL to link with DarkSky Weather data(realtime ＋ two days forecast).
 And timer corrected with NTP!
+
+> * Mega32 WebSocket :zap: https://github.com/jmysu/R3Esp32Grbl/tree/master/Firmware/WebSocket <br>
+>Add WebSocket for sending binary/text/Json![](https://i.imgur.com/aSz4Vmo.png =260x200)
 
 
 ---
