@@ -35,6 +35,10 @@ And timer corrected with NTP!
 > * Mega32 WebSocket :zap: https://github.com/jmysu/R3Esp32Grbl/tree/master/Firmware/WebSocket <br>
 >Add WebSocket for sending binary/text/Json![](https://i.imgur.com/aSz4Vmo.png =260x200)
 
+> * Modbus Master App :zap: https://github.com/jmysu/R3Esp32Grbl/tree/master/Software <br>
+> Add Qt ModbusMaster App for accessing hardware! <br>
+> (Coil/HoldingRegister only) ![](https://i.imgur.com/y9BHWFH.png =320x200)
+
 
 ---
 ### News :newspaper: 
